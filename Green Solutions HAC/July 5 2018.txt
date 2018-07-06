@@ -1,0 +1,4 @@
+Set up Amazon EC2 instance with an Elastic IP address at 54.149.77.158 - 20 minutes
+
+Started Wordpress server and set up credentials - 10 minutes
+
